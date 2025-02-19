@@ -10,7 +10,7 @@
 CORAZON-MD/CORAZON-MD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">𝐇𝐢, 𝐈'𝐦 𝐶𝑂𝑅𝐴𝑍𝑂𝑁-𝑀𝐷! <img src="https://telegra.ph/file/df6ddd1ba0af4316c494b.jpg" width="35"></h1>
+<h1 align="center">𝐇𝐢,𝐈'𝐦 𝐶𝑂𝑅𝐴𝑍𝑂𝑁-𝑀𝐷! <img src="https://telegra.ph/file/df6ddd1ba0af4316c494b.jpg" width="35"></h1>
 
 ![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://telegra.ph/file/df6ddd1ba0af4316c494b.jpg)
 
