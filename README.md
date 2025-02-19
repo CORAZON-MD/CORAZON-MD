@@ -1,89 +1,92 @@
-- 👋 Hi, I’m @CORAZON-MD
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<h1 align="center"> 𝐶𝑂𝑅𝐴𝑍𝑂𝑁-𝑀𝐷 </h1>
 
-<!---
-CORAZON-MD/CORAZON-MD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1 align="center">𝐇𝐢,𝐈'𝐦 𝐶𝑂𝑅𝐴𝑍𝑂𝑁-𝑀𝐷! <img src="https://telegra.ph/file/df6ddd1ba0af4316c494b.jpg" width="35"></h1>
 
-![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://telegra.ph/file/df6ddd1ba0af4316c494b.jpg)
+<h1 align="center"> Surviving is winning frankline everything else is bullshit,fairy tales spun by people afraid to look life in the eye,do whatever it takes kid ,,survive 😏🙏
+</h1>
 
-<p align="center">
-  <a href="https://github.com/CORAZON-MD/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=𝐈𝐦+𝐣𝐮𝐬𝐭+𝐍𝐨𝐨𝐛;𝐁𝐮𝐭+𝐈+𝐖𝐢𝐥𝐥+𝐊𝐞𝐞𝐩+𝐋𝐞𝐚𝐫𝐧𝐢𝐦𝐠;𝐈%20|%20𝐋𝐢𝐤𝐞%20|%20𝐂𝐨𝐝𝐢𝐧𝐠%20:);𝐥𝐞𝐭'𝐬%20𝐬𝐭𝐮𝐝𝐲;𝐓𝐨𝐠𝐞𝐭𝐡𝐞𝐫%2😊%20:)%20:)&center=true&width=500&height=50"></a>
-</p>
-<hr/>
-<h4 align="center">𝐈 𝐚𝐦 𝐶𝑂𝑅𝐴𝑍𝑂𝑁-𝑀𝐷.</h4>
+
+
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/967c663a5978c545f78d6.jpg" alt="01" border="0" /></a>                     
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+<details>
+<summary>𝐕𝐈𝐄𝐖 𝐋𝐀𝐓𝐄𝐒𝐓 𝐁𝐎𝐓 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐇𝐄𝐑𝐄👇</summary>
+
+- 𝐀𝐥𝐥 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐞𝐫𝐫𝐨𝐫𝐬 𝐟𝐢𝐱𝐞𝐝
+- 𝐀𝐧𝐭𝐢𝐜𝐚𝐥𝐥 𝐚𝐝𝐝𝐞𝐝
+-𝐀𝐧𝐭𝐢𝐝𝐞𝐥𝐞𝐭𝐞 𝐚𝐝𝐝𝐞𝐝
+-𝐀𝐧𝐝 𝐦𝐚𝐧𝐲 𝐦𝐨𝐫𝐞 𝐣𝐮𝐬𝐭 𝐝𝐞𝐩𝐥𝐨𝐲 𝐭𝐡𝐞 𝐛𝐨𝐭 𝐧𝐨𝐰
+
+</details>
+
+
+**👇FORK REPO**
+
+
+
+<a href="https://github.com/CORAZON-MD/CORAZON-MD/fork"><img src="https://img.shields.io/badge/CLICK%20HERE-purple" alt="FORK CORAZON-MD" width="150"></a>
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ <h1 align="center">  𝐆𝐄𝐓 𝐘𝐎𝐔𝐑 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 </h1>
+  <a href="https://keith-sessions-pi5z.onrender.com"><img src="https://img.shields.io/badge/Pair%20session%20code-white" alt="𝐏𝐚𝐢𝐫 𝐬𝐞𝐬𝐬𝐢𝐨𝐧 𝐜𝐨𝐝𝐞" width="300"></a>
+
+
+
+###  𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐇𝐄𝐑𝐎𝐊𝐔:
+
+
+ ***[![Tap to deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://github.com/Keithkeizzah/ALPHA-MD&template=https://github.com/Keithkeizzah/ALPHA-MD.git)***
+
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CORAZON-MD&label=Profile%20views&color=0e75b6&style=plastic" alt="CORAZON-MD" /> </p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+**𝗛𝗢𝗦𝗧 𝗢𝗡 𝗗𝗜𝗦𝗖𝗢𝗥𝗗**
+<details>
+<summary>CLICK FOR MORE</summary>
+<a href="https://github.com/CORAZON-MD/CORAZON-MD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+
+<a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
+</details
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 
-### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CORAZON-MD&theme=algolia" alt="CORAZON-MD"  /></p>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-<p align="left"> 
+## 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗨𝗦 𝗕𝗬 𝗝𝗢𝗜𝗡𝗜𝗡𝗚 𝗧𝗛𝗘𝗦𝗘 𝗟𝗜𝗡𝗞𝗦
 
-
-
-   <a href="https://www.youtube.com/@CORAZON-MD"><img width="83" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/whatsapp_button_icon_151832.png">
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+**𝗚𝗿𝗼𝘂𝗽**
+- <a href="https://chat.whatsapp.com/DvXonepPp1XBPOYIBziTl1" target="_blank">
+    <img alt="CLICK HERE" src="https://img.shields.io/badge/ JOIN OUR WHATSAPP GROUP  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
-</p>
+
+**𝗖𝗵𝗮𝗻𝗻𝗲𝗹**
+<p align="centre">
+  <a href="https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47">
+    <img align="left" alt="SIEGRIN | Whastapp" width="86px" src="https://raw.githubusercontent.com/PikaBotz/My_Personal_Space/main/Images/AnyaBot_pics/Anya_v2/Whatsapp.svg" />
 
 
 
-------
+   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-### 📊 Github Stats (Expand to View) 
+### 𝗧𝗛𝗔𝗡𝗞𝗦 𝗧𝗢 𝗠𝗬 𝗟𝗢𝗩𝗘𝗟𝗬 𝗙𝗔𝗡𝗦
+[![Stargazers repo roster for @CORAZON-MD/CORAZON-MD](http://reporoster.com/stars/dark/CORAZON-MD/CORAZON-MD)](https://github.com/CORAZON-MD/CORAZON-MD/stargazers)
 
+[![Forkers repo roster for @CORAZON-MD/CORAZON-MD](http://reporoster.com/forks/dark/CORAZON-MD/CORAZON-MD)](https://github.com/CORAZON-MD/CORAZON-MD/network/members)
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/CORAZON-MD/github-readme-stats"><img alt="CORAZON-MD Github Stats" src="https://github-readme-stats.vercel.app/api?username=CORAZON-MD&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eabdalmufid&show_icons=true&locale=en&layout=compact&theme=algolia" alt="eabdalmufid" height="192px"/>
-  <br/>
-<br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
+Enjoy the diverse features of 𝐶𝑂𝑅𝐴𝑍𝑂𝑁-𝑀𝐷  to enhance your Whatsapp more enjoyable
 
-</details>
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
-</p>
-
-### 🎧 Spotify Playing
-
-<p align="center">
-  <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
-</p>
-
-### 🙋‍♀️ Let's Connect
-<p align="center">
-        <a href="https://github.com/CORAZON-MD/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-        <a href="https://instagram.com/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-
-</p>
-
-
-
-* Credit: CORAZON-MD 
-* Last Edited on: 19/02/2025
-
-
-
-
-[![CORAZON-MD GitHub stats](https://github-readme-stats.vercel.app/api?username=𝐶𝑂𝑅𝐴𝑍𝑂𝑁-𝑀𝐷&show_icons=true&theme=radical)](https://github.com/CORAZON-MD)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
